@@ -46,6 +46,24 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 ---
 
+### Homelab — Erenyx Lab
+
+A personal infrastructure environment built entirely from second-hand hardware —
+designed for hands-on learning, real-world problem solving, and running self-hosted services.
+
+| Device | Role | Key Stack |
+|--------|------|-----------|
+| HP Z440 Workstation | Proxmox hypervisor | EVE-NG CE, TrueNAS CE |
+| Intel NUC8 i7 (NUC1) | Primary Docker server | 20 containerised services |
+| Intel NUC8 i3 (NUC2) | Testing and experiments | Disposable environments |
+| Raspberry Pi 4B | Edge node | Lightweight always-on services |
+| TP-Link AX23 (OpenWrt) | Core router | WiFi as WAN → wired LAN |
+
+> Full documentation, network topology, and problem/solution write-ups →
+> **[farhathmh/erenyx-lab](https://github.com/farhathmh/erenyx-lab)**
+
+---
+
 ### GitHub stats
 
 <div align="center">
