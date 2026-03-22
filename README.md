@@ -46,6 +46,50 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 ---
 
+### Certifications
+
+Here's the updated section with AZ-900 added:
+markdown
+
+---
+
+### Certifications
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center">
+  <a href="https://www.credly.com/users/farhath-manas">
+    <img src="https://images.credly.com/size/340x340/images/99c33c3f-ab7e-46dc-9490-01837434c649/blob" height="100" alt="CCNA"/>
+  </a><br/>
+  <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</td>
+<td align="center">
+  <a href="https://www.credly.com/users/farhath-manas">
+    <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="100" alt="CyberOps Associate"/>
+  </a><br/>
+  <img src="https://img.shields.io/badge/CyberOps_Associate-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</td>
+<td align="center">
+  <a href="https://www.credly.com/users/farhath-manas">
+    <img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" height="100" alt="NSE 1"/>
+  </a><br/>
+  <img src="https://img.shields.io/badge/NSE_1-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+</td>
+<td align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/FarhathManas-1355/E4774AFE75145CC8?sharingId=59B41A4FB459AB77">
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" height="100" alt="AZ-900"/>
+  </a><br/>
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ### Homelab — Erenyx Lab
 
 A personal infrastructure environment built entirely from second-hand hardware —
