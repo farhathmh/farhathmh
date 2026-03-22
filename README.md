@@ -6,6 +6,19 @@
 
 ---
 
+### Quick Nav
+
+| Section | Jump |
+|---------|------|
+| Identity | [Who I am](#who-i-am) |
+| Stack | [What I work with](#what-i-work-with) |
+| Learning | [Currently building and learning](#currently-building-and-learning) |
+| Credentials | [Certifications](#certifications) |
+| Homelab | [Homelab - Erenyx Lab](#homelab---erenyx-lab) |
+| Metrics | [GitHub stats](#github-stats) |
+
+---
+
 ### Who I am
 
 I'm a Field IT Support Engineer who refuses to be limited by a job title. My work is straightforward — I keep systems running, solve problems fast, and support users. But outside of work, I'm constantly building, breaking, and rebuilding things in my homelab just to understand how they actually work.
@@ -32,6 +45,20 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+<details>
+<summary><strong>Stack matrix</strong></summary>
+
+| Domain | Tools |
+|--------|-------|
+| Platform | Linux, Ubuntu, Windows Server |
+| Infra | Proxmox, VMware, Docker |
+| Network | VLANs, DNS, DHCP, Firewall ops |
+| Routing | OpenWrt |
+| Automation | Bash, Python |
+| Workflow | Git |
+
+</details>
 
 ---
 
@@ -81,9 +108,20 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 </div>
 
+<details>
+<summary><strong>Certification progression</strong></summary>
+
+| Track | Current Position | Next Target |
+|-------|------------------|-------------|
+| Networking | CCNA complete | CCNP |
+| Cloud | AZ-900 complete | AZ-104 |
+| Security | CyberOps + NSE1 | CEHv13 |
+
+</details>
+
 ---
 
-### Homelab — Erenyx Lab
+### Homelab - Erenyx Lab
 
 A personal infrastructure environment built entirely from second-hand hardware —
 designed for hands-on learning, real-world problem solving, and running self-hosted services.
@@ -98,6 +136,21 @@ designed for hands-on learning, real-world problem solving, and running self-hos
 
 > Full documentation, network topology, and problem/solution write-ups →
 > **[farhathmh/erenyx-lab](https://github.com/farhathmh/erenyx-lab)**
+
+<details>
+<summary><strong>Dashboard style sample for project READMEs</strong></summary>
+
+```md
+## Dashboard Panel
+
+| Panel | Live State |
+|------|------------|
+| Lab State | ![Lab State](https://img.shields.io/badge/Lab-Operational-0A9396?style=flat-square) |
+| Containers | ![Containers](https://img.shields.io/badge/Containers-20-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| Router | ![Router](https://img.shields.io/badge/OpenWrt-AX23_v1-00B5E2?style=flat-square&logo=openwrt&logoColor=white) |
+```
+
+</details>
 
 ---
 
