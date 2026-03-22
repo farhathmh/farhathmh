@@ -8,6 +8,9 @@
 
 ### Quick Nav
 
+<details>
+<summary><strong>Open quick navigation</strong></summary>
+
 | Section | Jump |
 |---------|------|
 | Identity | [Who I am](#who-i-am) |
@@ -16,6 +19,8 @@
 | Credentials | [Certifications](#certifications) |
 | Homelab | [Homelab - Erenyx Lab](#homelab---erenyx-lab) |
 | Metrics | [GitHub stats](#github-stats) |
+
+</details>
 
 ---
 
