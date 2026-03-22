@@ -48,13 +48,6 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 ### Certifications
 
-Here's the updated section with AZ-900 added:
-markdown
-
----
-
-### Certifications
-
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="20">
