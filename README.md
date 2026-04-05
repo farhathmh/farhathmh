@@ -1,6 +1,21 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=120&section=header&animation=twinkling" width="100%" alt="header wave"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Farhath+Manas+%F0%9F%91%8B;Field+IT+Engineer+%7C+Tech+Explorer;I+break+things%2C+rebuild+them+better." alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+### Now Live
+
+**[`learn-ccnp-with-claud`](https://github.com/farhathmh/learn-ccnp-with-claud)** — Open CCNP study log built alongside Claude AI.
+Notes, labs, and explanations. All public.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-learn--ccnp--with--claud-00B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhathmh/learn-ccnp-with-claud)
+&nbsp;
+[![Become a Contributor](https://img.shields.io/badge/Become_a_Contributor-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhathmh/learn-ccnp-with-claud/blob/main/CONTRIBUTING.md)
 
 </div>
 
@@ -18,6 +33,7 @@
 | Learning    | [Currently building and learning](#currently-building-and-learning) |
 | Credentials | [Certifications](#certifications)                                   |
 | Homelab     | [Homelab - Erenyx Lab](#homelab---erenyx-lab)                       |
+| Projects    | [Featured projects](#featured-projects)                             |
 | Metrics     | [GitHub stats](#github-stats)                                       |
 
 </details>
@@ -36,18 +52,16 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-VLANs%20%7C%20DNS%20%7C%20DHCP%20%7C%20Firewalls-00B4D8?style=for-the-badge)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-F07A13?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,bash,python,git,github,vscode,azure,raspberrypi&theme=dark&perline=6)
+
+<br/>
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-F07A13?style=flat-square)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
 </div>
 
@@ -60,8 +74,10 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 | Infra      | Proxmox, VMware, Docker        |
 | Network    | VLANs, DNS, DHCP, Firewall ops |
 | Routing    | OPNsense, NAT bridge           |
+| Lab / Sim  | EVE-NG CE                      |
 | Automation | Bash, Python                   |
 | Workflow   | Git                            |
+| AI Tools   | Claude Code, GitHub Copilot    |
 
 </details>
 
@@ -69,7 +85,7 @@ I'm the kind of engineer who will find a solution even when the situation isn't 
 
 ### Currently building and learning
 
-- Working through **CCNP** after completing CCNA — going deeper into enterprise networking
+- Working through **[CCNP](https://github.com/farhathmh/learn-ccnp-with-claud)** after completing CCNA — going deeper into enterprise networking
 - Studying **AZ-104** — Microsoft Azure Administrator
 - Pursuing **CEHv13** — Ethical Hacking and offensive security fundamentals
 - Homelab running self-hosted services via Docker on a Proxmox/VMware base
@@ -159,26 +175,31 @@ designed for hands-on learning, real-world problem solving, and running self-hos
 
 ---
 
+### Featured projects
+
+| Repo | What it is |
+| ---- | ---------- |
+| [learn-ccnp-with-claud](https://github.com/farhathmh/learn-ccnp-with-claud) | Open CCNP study log — notes, labs, and explanations built alongside Claude AI |
+| [erenyx-lab](https://github.com/farhathmh/erenyx-lab) | Full homelab docs — topology, configs, and problem/solution write-ups |
+| [wifi-as-wan-bridge](https://github.com/farhathmh/wifi-as-wan-bridge) | Routing LAN through a wireless uplink bridge when you don't own your connection |
+
+---
+
 ### GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhathmh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhathmh&theme=tokyonight&hide_border=true" height="165"/>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=farhathmh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/farhathmh)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhathmh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/farhathmh)
+
+<br/>
+
+![Snake](https://raw.githubusercontent.com/farhathmh/farhathmh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhathmh&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-
-</div>
-
----
-
-### Featured projects
-
-> Repos coming soon — currently documenting homelab setups, network configs, and automation scripts.
 
 ---
 
@@ -196,3 +217,5 @@ designed for hands-on learning, real-world problem solving, and running self-hos
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=farhathmh&style=flat-square&color=00B4D8" alt="Profile views"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:00B4D8&height=80&section=footer" width="100%" alt="footer wave"/>
